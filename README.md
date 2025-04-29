@@ -8,5 +8,4 @@
 <img src="https://files.catbox.moe/bgh0xj.png" width="500">
 </div>
 
-<p style="text-align:center;">Centered paragraph.</p>
- 
+
