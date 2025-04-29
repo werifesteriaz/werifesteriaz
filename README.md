@@ -6,10 +6,11 @@
 <img src="https://files.catbox.moe/bgh0xj.png" width="500">
 </div>
 
-<div class="column">
-  <div align="center">
+<div class="row">
+  <div class="column">
     <img src="https://files.catbox.moe/8f5hot.png" width="150">
-</div>
-  <div align="center">
+  </div>
+  <div class="column">
     <img src="https://files.catbox.moe/evfahg.png" width="150">
+  </div>
 </div>
