@@ -6,12 +6,4 @@
 <img src="https://files.catbox.moe/bgh0xj.png" width="500">
 </div>
 
-<div class="container">
-  <div align="center">
-     <img src="https://files.catbox.moe/8f5hot.png" width="150">
-</div>
-<div class="container">
-  <div align="center">
-      <img src="https://files.catbox.moe/evfahg.png" width="150">
-  </div>
-</div>
+ 
