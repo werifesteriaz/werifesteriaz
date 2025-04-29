@@ -8,5 +8,5 @@
 > [!NOTE]
 > Me and my friends often use heart emotes on most characters we have, though please do not assume all of them are ships! 
 <div align="center">
-<img src="https://files.catbox.moe/8f5hot.png" width="300">
+<img src="https://files.catbox.moe/8f5hot.png" width="150">
 </div>
