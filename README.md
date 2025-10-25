@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<img src="https://files.catbox.moe/bgh0xj.png" width="500">
+<img src="https://files.catbox.moe/uiee1s.png" width="500">
 </div>
 
 
