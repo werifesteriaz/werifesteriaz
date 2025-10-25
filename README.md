@@ -13,7 +13,7 @@
 <div align="center">‎
 <a href="https://revythille.straw.page/">strawpage</a>‎ ‎ ‎ ‎ ‎♡‎ ‎ ‎ ‎ <a href="https://pronouns.cc/@revythille.">pronounscc</a>
 </div>
-
+‎ 
 <div align="center">
 <img src="https://64.media.tumblr.com/f37019421e109e519743fe0ebdde4385/a251213c95b11efb-aa/s75x75_c1/51f24e94acb3db09e865f4bb614aef895d000b33.gifv" width="15">‎ ‎ cr : OXx3pointO on X
 </div>
