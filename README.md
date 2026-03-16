@@ -11,7 +11,7 @@
 </div>
 ‎ 
 <div align="center">‎
-<a href="https://rentry.co/revyth">rentry</a>‎ ‎ ‎ ‎ ‎♡‎ ‎ ‎ ‎ <a href="https://revythille.straw.page/">strawpage</a>‎ ‎ ‎ ‎ ‎♡‎ ‎ ‎ ‎ <a href="https://pronouns.cc/@revythille.">pronounscc</a>
+<a href="https://rentry.co/revythille">rentry</a>‎ ‎ ‎ ‎ ‎♡‎ ‎ ‎ ‎ <a href="https://revythille.straw.page/">strawpage</a>‎ ‎ ‎ ‎ ‎♡‎ ‎ ‎ ‎ <a href="https://pronouns.cc/@revythille.">pronounscc</a>
 </div>
 ‎ 
 <div align="center">
