@@ -7,7 +7,7 @@
 <div align="center">
 <img src="https://files.catbox.moe/g75e7a.gif" width="500">
 </div>
+
 <div align="center">
-<a href="https://rentry.co/fawnez"><img src="https://files.catbox.moe/nzuqhm.png"width="200"></img></a><a href="https://pronouns.cc/@revythille."><img src="https://files.catbox.moe/udrcsr.png"width="200"></img></a><a href="https://revythille.straw.page.">
-</div>
+<a href="https://rentry.co/fawnez"><img src="https://files.catbox.moe/nzuqhm.png"width="200"></img></a>ㅤ <a href="https://pronouns.cc/@revythille."><img src="https://files.catbox.moe/udrcsr.png"width="200"></img></a> ㅤ<a href="https://revythille.straw.page."><img src="https://files.catbox.moe/pps7q4.png"width="200"></img></a>
 ‎ 
