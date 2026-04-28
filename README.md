@@ -9,7 +9,7 @@
 </div>
 
 <p>
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 $$\color{#bda3d6}{\text{𓎟𓎡ㅤ𝒕hey}}\color{#d0b0da}{\text{ ノany}}$$
   ㅤ<img src="https://files.catbox.moe/gxjjya.gif" align="center">
   ㅤ  $\color{#ddb5d7}{\text{8teen 𓈒ㅤᶻ 𝘇 𐰁}}$
