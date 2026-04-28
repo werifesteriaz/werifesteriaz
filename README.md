@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=werifesteriaz&label=%3C%F0%9D%9F%91&color=bda3d6&style=flat" alt="werifesteriaz" /> </p>
 ‎
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Edu+NSW+ACT+Foundation&pause=1000&color=DDB5D7&width=435&lines=Hey+Wem%3F+I+liked+the+beach%2C+can+you+bring+me+there+again%3F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Maps&size=16&pause=500&color=DDB5D7&width=450&height=65&lines=%22Hey%2C+Wem%3F%22+Egg+weakly+called.;+%22I+liked+the+beach%2C+can+you+bring+me+there+again%3F%22" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
