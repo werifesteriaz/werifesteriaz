@@ -15,7 +15,7 @@
 {\color{#d0b0da} ノanyㅤ}
 }$
 
-  <img src="https://files.catbox.moe/gxjjya.gif">
+  <img src="https://files.catbox.moe/q35gl0.gif">
   $\textsf{\color{#ddb5d7}ㅤ8teen 𓈒ㅤᶻ 𝘇 𐰁}$
 </p>
 
@@ -23,10 +23,10 @@
  $\textsf{
 {\color{#e2c3c8}⤿ㅤc + h}
 {\color{#e8d1bf}ㅤencㅤㅤ⋂⑅⋂}
-{\color{#efe2bb}ㅤㅤread rentry byi}
+{\color{#efe2bb}ㅤㅤread rentry byiㅤ}
 }$
 
-  <img src="https://64.media.tumblr.com/df29fd2dad740cb66e2d97795464ee75/afa472be2c67df89-69/s75x75_c1/8276d779c979c42f11b93372b264312b1fd05d69.gifv">
+  <img src="https://64.media.tumblr.com/7f999c9281ceecb4c97c1d84e9b12a4d/47a4384795cbfe1a-82/s75x75_c1/cff9f2cc9112dcafb1040f9347d8cf0bd1f56a25.gif" width="20">
 </p>
 
 
