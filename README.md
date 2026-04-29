@@ -16,26 +16,20 @@
 }$
 
   <img src="https://files.catbox.moe/q35gl0.gif">
-  $\textsf{\color{#ddb5d7}ㅤ8teen 𓈒ㅤᶻ 𝘇 𐰁}$
+  $\textsf{\color{#ddb5d7}ㅤ8tee̲n̲ 𓈒ㅤᶻ 𝘇 𐰁}$
 </p>
 
 <p align="center">
  $\textsf{
 {\color{#e2c3c8}⤿ㅤc + h}
-{\color{#e8d1bf}ㅤencㅤㅤ⋂⑅⋂}
+{\color{#e8d1bf}ㅤ𝑒𝑛𝑐ㅤㅤ⋂⑅⋂}
 {\color{#efe2bb}ㅤㅤread rentry byiㅤ}
 }$
 
   <img src="https://files.catbox.moe/do1a63.gif" width="20">
 </p>
-
-
-
-
-
-
-
-  
+ㅤㅤ
+ㅤㅤ
 <div align="center">
 <a href="https://rentry.co/fawnez"><img src="https://files.catbox.moe/nzuqhm.png"width="150"></img></a>ㅤ <a href="https://pronouns.cc/@revythille."><img src="https://files.catbox.moe/udrcsr.png"width="150"></img></a> ㅤ<a href="https://revythille.straw.page."><img src="https://files.catbox.moe/pps7q4.png"width="150"></img></a>
 ‎ 
