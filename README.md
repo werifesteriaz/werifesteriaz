@@ -26,7 +26,7 @@
 {\color{#efe2bb}ㅤㅤread rentry byiㅤ}
 }$
 
-  <img src="https://64.media.tumblr.com/7f999c9281ceecb4c97c1d84e9b12a4d/47a4384795cbfe1a-82/s75x75_c1/cff9f2cc9112dcafb1040f9347d8cf0bd1f56a25.gif" width="20">
+  <img src="https://files.catbox.moe/do1a63.gif" width="20">
 </p>
 
 
