@@ -31,5 +31,5 @@
 ㅤㅤ
 ㅤㅤ
 <div align="center">
-<a href="https://rentry.co/fawnez"><img src="https://files.catbox.moe/nzuqhm.png"width="150"></img></a>ㅤ <a href="https://pronouns.cc/@revythille."><img src="https://files.catbox.moe/udrcsr.png"width="150"></img></a> ㅤ<a href="https://revythille.straw.page."><img src="https://files.catbox.moe/pps7q4.png"width="150"></img></a>
+<a href="https://rentry.co/chunglodites"><img src="https://files.catbox.moe/nzuqhm.png"width="150"></img></a>ㅤ <a href="https://pronouns.cc/@revythille."><img src="https://files.catbox.moe/udrcsr.png"width="150"></img></a> ㅤ<a href="https://fawneys.atabook.org/"><img src="https://files.catbox.moe/e10ewh.png"width="150"></img></a>
 ‎ 
