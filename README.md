@@ -7,9 +7,3 @@
 <div align="center">
 <img src="https://files.catbox.moe/bqnp4e.png" width="500">
 </div>
-
-<table>
-<tr>
-<td width="30%" rowspan="2" align="center">
-
-<img src="https://files.catbox.moe/io4q2q.png" width="70%">
