@@ -25,8 +25,8 @@
   <img src="https://files.catbox.moe/95g837.gif">
   $\textsf{
   {\color{#d898d1}ㅤISTP }
-  {\color{#e5abd2}5w6ㅤ}
-  {\color{#f2d6c1}spノso⠀549𓈒ㅤᶻ 𝘇 𐰁}
+  {\color{#e5abd2}5w6ㅤsp}
+  {\color{#f2d6c1}ノso⠀549𓈒ㅤᶻ 𝘇 𐰁}
   }$
 </p>
 
