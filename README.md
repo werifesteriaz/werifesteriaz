@@ -39,9 +39,9 @@
 }$
   <img src="https://files.catbox.moe/q35gl0.gif">
   $\textsf{\color{#f2d6c1}ㅤㅤofftab w2iㅤ༢ུ·}$
-  <div align="center">
-<img src="https://files.catbox.moe/bqnp4e.png" width="500">
-</div>
+⠀</p>
+⠀⠀
+⠀⠀
 <p align="center">
   <a href="https://rentry.co/chunglodites">
     <img src="https://files.catbox.moe/tcuodt.png" width="120">
