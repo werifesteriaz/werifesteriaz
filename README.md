@@ -42,11 +42,11 @@
 ⠀⠀
 <p align="center">
   <a href="https://rentry.co/chunglodites">
-    <img src="https://files.catbox.moe/tcuodt.png" width="120">
+    <img src="https://files.catbox.moe/tcuodt.png" width="140">
    <a href="https://fawneys.atabook.org/">
-    <img src="https://files.catbox.moe/o50ss1.png" width="100">
+    <img src="https://files.catbox.moe/o50ss1.png" width="120">
    <a href="https://pronouns.cc/@revythille.">
-    <img src="https://files.catbox.moe/uyw479.png" width="140">
+    <img src="https://files.catbox.moe/uyw479.png" width="160">
   </a>
 </p>
 <div align="center">
