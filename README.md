@@ -7,3 +7,38 @@
 <div align="center">
 <img src="https://files.catbox.moe/bqnp4e.png" width="500">
 </div>
+
+<p align="center">
+ $\textsf{\color{#a184c9}𓏵  ׅ}$
+
+  <img src="https://files.catbox.moe/rlhb9q.png" width="75">
+  $\textsf{
+  {\color{#d898d1} ᵒᵘ }
+   {\color{#e5abd2} fawne }
+   {\color{#f2d6c1} ⌒⌒ㅤ}
+   }$
+   <img src="https://files.catbox.moe/evco5w.gif" width="25">
+</p>
+
+<p align="center">
+ $\textsf{\color{#a184c9}𝒕hey ノanyㅤ}$
+  
+
+  <img src="https://files.catbox.moe/95g837.gif">
+  $\textsf{
+  {\color{#d898d1}ㅤISTP }
+  {\color{#e5abd2}5w6ㅤ}
+  {\color{#f2d6c1}spノso⠀549𓈒ㅤᶻ 𝘇 𐰁}
+  }$
+</p>
+
+<p align="center">
+ $\textsf{
+{\color{#a184c9}⤿ㅤc + h}
+{\color{#d898d1}ㅤ𝑒𝑛𝑐ㅤㅤ}
+}$
+  <img src="https://files.catbox.moe/q35gl0.gif">
+  $\textsf{\color{#f2d6c1}ㅤㅤofftab w2iㅤ༢ུ·}$
+  <div align="center">
+<img src="https://files.catbox.moe/bqnp4e.png" width="500">
+</div>
